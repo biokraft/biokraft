@@ -13,6 +13,7 @@ This is my flagship project: the **[My Cursor Framework](https://github.com/biok
 [![GitHub License](https://img.shields.io/github/license/biokraft/my-cursor-framework?style=for-the-badge)](https://github.com/biokraft/my-cursor-framework/blob/main/LICENSE)
 [![Read on Medium](https://img.shields.io/badge/1.%20A%20Practical%20Guide%20to%20Mastering%20Cursor%20AI-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/supercharge-your-productivity-a-practical-guide-to-mastering-cursor-ai-167e0b1a087a)
 [![Read on Medium](https://img.shields.io/badge/2.%20From%20Vision%20to%20Vibe%3A%20A%20Manifesto-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/from-vision-to-vibe-a-manifesto-for-spec-driven-development-with-ai-220b219a49fa)
+[![Read on Medium](https://img.shields.io/badge/3.%20Dear%20Developer%2C%20It's%20Time%20to%20Stop%20Writing%20Code-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/dear-developer-its-time-to-stop-writing-code-343c953a10f4)
 
 #### 🧠 On AI: Sycophancy, Safety, and the Future
 I believe understanding AI is one of the most critical challenges of our time. I often write about its behavior—from its tendency to be a "people-pleaser" to the urgent need for safety research. My goal is to make these complex topics accessible to everyone.
