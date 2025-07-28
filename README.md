@@ -22,12 +22,6 @@ I believe understanding AI is one of the most critical challenges of our time. I
 [![Read on Medium](https://img.shields.io/badge/2.%20Anthropic's%20AI%20Chose%20Blackmail-black?style=for-the-badge&logo=medium)](https://biokraft.medium.com/anthropic-told-its-ai-to-save-itself-it-chose-blackmail-d2f3ac92b69f)
 [![Read on Medium](https://img.shields.io/badge/3.%20Jailbreaking%20AI-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/jailbreaking-ai-how-a-few-lines-of-text-can-hijack-a-language-model-afef31e03397)
 
-### 🌦️ Building for IoT: The Aura Weather Display
-I'm also passionate about the world of IoT. I've forked and am actively developing **[Aura](https://github.com/biokraft/Aura)**, a firmware for a DIY smart weather widget that runs on "Cheap Yellow Display" ESP32 devices. It’s a fun project that combines hardware, C++, and a rich graphical interface with LVGL.
-
-[![GitHub Stars](https://img.shields.io/github/stars/biokraft/Aura?style=for-the-badge&logo=github)](https://github.com/biokraft/Aura/stargazers)
-[![GitHub License](https://img.shields.io/github/license/biokraft/Aura?style=for-the-badge)](https://github.com/biokraft/Aura/blob/main/LICENSE)
-
 ### ⛓️ Exploring New Frontiers: The TON Blockchain
 I'm currently diving deep into the Telegram Open Network (TON) ecosystem. It's a fascinating space with the potential to make crypto accessible and useful for everyone. I've been documenting my exploration and insights on Medium.
 
