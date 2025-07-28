@@ -19,6 +19,7 @@ I believe understanding AI is one of the most critical challenges of our time. I
 
 [![Read on Medium](https://img.shields.io/badge/1.%20Is%20Your%20AI%20a%20People%20Pleaser%3F-black?style=for-the-badge&logo=medium)](https://biokraft.medium.com/is-your-ai-a-people-pleaser-the-hidden-dangers-of-digital-sycophancy-21181ad916dc)
 [![Read on Medium](https://img.shields.io/badge/2.%20Anthropic's%20AI%20Chose%20Blackmail-black?style=for-the-badge&logo=medium)](https://biokraft.medium.com/anthropic-told-its-ai-to-save-itself-it-chose-blackmail-d2f3ac92b69f)
+[![Read on Medium](https://img.shields.io/badge/3.%20Jailbreaking%20AI-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/jailbreaking-ai-how-a-few-lines-of-text-can-hijack-a-language-model-afef31e03397)
 
 #### 🌦️ Building for IoT: The Aura Weather Display
 I'm also passionate about the world of IoT. I've forked and am actively developing **[Aura](https://github.com/biokraft/Aura)**, a firmware for a DIY smart weather widget that runs on "Cheap Yellow Display" ESP32 devices. It’s a fun project that combines hardware, C++, and a rich graphical interface with LVGL.
