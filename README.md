@@ -1,8 +1,8 @@
 ### Hi there, I'm Seán 👋
 
-I'm a Data Scientist who loves to build. My focus is on the intersection of **Software Engineering, System Design, and AI**. I'm passionate about creating tools and workflows that amplify developer productivity and exploring the cutting edge of what's possible.
+I'm a Data Scientist who loves to build. My focus is on the intersection of **Software Engineering, System Design, and AI/ML**. I'm passionate about creating tools and workflows that amplify developer productivity and exploring the cutting edge of what's possible, right now.
 
-Right now, I'm channeling this passion in a few key areas:
+Currently, I'm channeling this passion in a few key areas:
 
 ---
 
@@ -16,7 +16,7 @@ This is my flagship project: the **[My Cursor Framework](https://github.com/biok
 [![Read on Medium](https://img.shields.io/badge/3.%20Dear%20Developer%2C%20It's%20Time%20to%20Stop%20Writing%20Code-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/dear-developer-its-time-to-stop-writing-code-343c953a10f4)
 
 #### 🧠 On AI: Sycophancy, Safety, and the Future
-I believe understanding AI is one of the most critical challenges of our time. I often write about its behavior—from its tendency to be a "people-pleaser" to the urgent need for safety research. My goal is to make these complex topics accessible to everyone.
+I believe understanding AI is one of the most critical challenges of our time. I love to write about it, and I'm always looking for new ways to explore it. Follow me on Medium to see what I'm up to.
 
 [![Read on Medium](https://img.shields.io/badge/1.%20Is%20Your%20AI%20a%20People%20Pleaser%3F-black?style=for-the-badge&logo=medium)](https://biokraft.medium.com/is-your-ai-a-people-pleaser-the-hidden-dangers-of-digital-sycophancy-21181ad916dc)
 [![Read on Medium](https://img.shields.io/badge/2.%20Anthropic's%20AI%20Chose%20Blackmail-black?style=for-the-badge&logo=medium)](https://biokraft.medium.com/anthropic-told-its-ai-to-save-itself-it-chose-blackmail-d2f3ac92b69f)
