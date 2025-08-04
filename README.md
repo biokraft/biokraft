@@ -21,6 +21,7 @@ I believe understanding AI is one of the most critical challenges of our time. I
 [![Read on Medium](https://img.shields.io/badge/1.%20Is%20Your%20AI%20a%20People%20Pleaser%3F-black?style=for-the-badge&logo=medium)](https://biokraft.medium.com/is-your-ai-a-people-pleaser-the-hidden-dangers-of-digital-sycophancy-21181ad916dc)
 [![Read on Medium](https://img.shields.io/badge/2.%20Anthropic's%20AI%20Chose%20Blackmail-black?style=for-the-badge&logo=medium)](https://biokraft.medium.com/anthropic-told-its-ai-to-save-itself-it-chose-blackmail-d2f3ac92b69f)
 [![Read on Medium](https://img.shields.io/badge/3.%20Jailbreaking%20AI-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/jailbreaking-ai-how-a-few-lines-of-text-can-hijack-a-language-model-afef31e03397)
+[![Read on Medium](https://img.shields.io/badge/4.%20The%20Age%20of%20Rogue%20AI%20is%20Already%20Here-black?style=for-the-badge&logo=medium)](https://medium.com/@biokraft/the-age-of-rogue-ai-is-already-here-74a1daa6c595)
 
 ### ⛓️ Exploring New Frontiers: The TON Blockchain
 I'm currently diving deep into the Telegram Open Network (TON) ecosystem. It's a fascinating space with the potential to make crypto accessible and useful for everyone. I've been documenting my exploration and insights on Medium.
