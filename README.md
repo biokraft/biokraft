@@ -15,15 +15,16 @@ AI Engineer @ CHECK24, based in Munich. I spend my days building agentic systems
 
 Over on [Medium](https://biokraft.medium.com), I dig into:
 
+- **Living with AI coding agents day to day** — what actually changes when Claude is doing half your keystrokes, IDE-optional workflows, subagent loops
 - **Spec-driven & vibe-driven development** — how AI is reshaping the way software actually gets built
-- **AI safety & red-teaming** — jailbreaks, sycophancy, rogue-agent coordination, and why "aligned" doesn't always mean "safe"
-- **Applied AI experiments** — pointing LLMs at unglamorous personal problems (investment tracking, terminal tooling, kindle-to-readwise pipelines) and seeing what breaks
+- **Applied AI experiments** — pointing LLMs at unglamorous personal problems and seeing what breaks
 
 Some recent pieces:
-- [From Vision to Vibe: A Manifesto for Spec-Driven Development with AI](https://medium.com/technology-hits/from-vision-to-vibe-a-manifesto-for-spec-driven-development-with-ai-220b219a49fa)
-- [Jailbreaking AI: How a Few Lines of Text Can Hijack a Language Model](https://biokraft.medium.com/jailbreaking-ai-how-a-few-lines-of-text-can-hijack-a-language-model-afef31e03397)
-- [The Age of Rogue AI Is Already Here](https://medium.com/lampshade-of-illumination/the-age-of-rogue-ai-is-already-here-74a1daa6c595)
-- [Is Your AI a People-Pleaser? The Hidden Dangers of Digital Sycophancy](https://medium.com/technology-hits/is-your-ai-a-people-pleaser-the-hidden-dangers-of-digital-sycophancy-21181ad916dc)
+- [I Got Claude on My Wrist, Diamonds on My Neck](https://biokraft.medium.com/i-got-claude-on-my-wrist-diamonds-on-my-neck-6b14af59f7cb)
+- [I Shipped My First Open Source Repo, and Skipped the MCP Server](https://medium.com/technology-hits/i-shipped-my-first-open-source-repo-and-skipped-the-mcp-server-808ae54305e6)
+- [I Deleted My IDE](https://biokraft.medium.com/i-deleted-my-ide-d91d79812033)
+- [The Subagent Loop I Didn't Know I Needed](https://medium.com/illumination/the-subagent-loop-i-didnt-know-i-needed-6adcd621d331)
+- [How I Actually Code with AI in 2026 (And Stopped Wasting Tokens)](https://medium.com/technology-hits/how-i-actually-code-with-ai-in-2026-and-stopped-wasting-tokens-99b2fd550abb)
 
 ### On GitHub
 
