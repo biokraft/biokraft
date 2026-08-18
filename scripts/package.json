@@ -1,0 +1,9 @@
+{
+  "name": "card-updater",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.62.1",
+    "vite": "^8.2.1"
+  }
+}

@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="assets/card.png" alt="biokraft GitHub card" width="420">
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/card.png" alt="biokraft GitHub card" width="420">
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><i>(not centered on purpose — see card weakness ↓)</i></sub>
 </p>
 
 <h3 align="center">Hey, I'm Seán 👋</h3>
