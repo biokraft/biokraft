@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/card.png" alt="biokraft GitHub card" width="441">
+  <img src="assets/card.png" alt="biokraft GitHub card" width="520">
 </p>
 
 <h3 align="center">Hey, I'm Seán 👋</h3>
