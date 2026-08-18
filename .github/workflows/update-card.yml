@@ -39,19 +39,22 @@ jobs:
         working-directory: scripts
         run: npx playwright install --with-deps chromium
 
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Generate card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITCG_DIR: ${{ github.workspace }}/gitcg
-          CARD_OUT: ${{ github.workspace }}/assets/card.png
+          CARD_OUT: ${{ github.workspace }}/assets/card.gif
         run: node scripts/update-card.mjs
 
       - name: Commit if changed
         run: |
-          if ! git diff --quiet -- assets/card.png; then
+          if ! git diff --quiet -- assets/card.gif; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add assets/card.png
+            git add assets/card.gif
             git commit -m "chore: refresh GitHub card"
             git push
           else
