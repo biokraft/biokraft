@@ -20,6 +20,7 @@ Over on [Medium](https://biokraft.medium.com), I dig into:
 - **Applied AI experiments** — pointing LLMs at unglamorous personal problems and seeing what breaks
 
 Some recent pieces:
+- [Your Privacy Is Already Over — and That's Weirdly Fine](https://biokraft.medium.com/your-privacy-is-already-over-and-thats-weirdly-fine-3c8e03ef7e6c)
 - [I Got Claude on My Wrist, Diamonds on My Neck](https://biokraft.medium.com/i-got-claude-on-my-wrist-diamonds-on-my-neck-6b14af59f7cb)
 - [I Shipped My First Open Source Repo, and Skipped the MCP Server](https://medium.com/technology-hits/i-shipped-my-first-open-source-repo-and-skipped-the-mcp-server-808ae54305e6)
 - [I Deleted My IDE](https://biokraft.medium.com/i-deleted-my-ide-d91d79812033)
