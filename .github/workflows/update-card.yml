@@ -32,7 +32,7 @@ jobs:
 
       - name: Install workflow deps
         working-directory: scripts
-        run: npm install playwright vite
+        run: npm ci
         # installs local to scripts/ so it doesn't touch gitcg's lockfile
 
       - name: Install Chromium
