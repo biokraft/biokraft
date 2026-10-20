@@ -28,7 +28,7 @@ jobs:
 
       - name: Install gitcg deps
         working-directory: gitcg
-        run: npm install
+        run: yarn install --frozen-lockfile
 
       - name: Install workflow deps
         working-directory: scripts
